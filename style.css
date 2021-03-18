@@ -846,14 +846,17 @@ h4 {
 /* modification apportée pour alléger le site web */
 .bg-dots-bg {
     background-image: url("img/images_compress/dots-bg.png");
+    width: 100%;
 }
 
 .bg-lines-h2-bg {
     background-image: url("img/images_compress/lines-h2-bg.png");
+    width: 100%;
 }
 
 .bg-banniere {
     background-image: url("img/images_compress/la-chouette-agence-banniere.jpg");
+    width: 100%;
 }
 
 .bg-presentation {
