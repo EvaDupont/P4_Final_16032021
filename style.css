@@ -773,8 +773,12 @@ h4 {
     color: #FFFFFF!important;
 }
 
+/* modification apportée pour alléger le site web */
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .portfolio-row {
@@ -1065,6 +1069,7 @@ h4 {
         width: 180px;
         height: 320px;
     }
+   
 }
 
 @media (max-width: 400px) {
