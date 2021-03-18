@@ -858,6 +858,7 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/images_compress/image-de-presentation.png");
+    width: 100%;
 }
 
 @media (max-width: 1024px) {
