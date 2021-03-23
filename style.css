@@ -42,14 +42,23 @@ button {
     text-align: center;
 }
 
+.adresse
+{
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    margin : 30px 5px 0px 5px;
+    background : url(img/images_compress/texture-paper.png);
+    border-radius: 10px;
+}
+
 /*fin du bloc des modifications apportées */
 
 a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
-
 
 #page-loading-blocs-notifaction {
     position: fixed;
@@ -264,8 +273,16 @@ a:hover {
 .l-bloc h4 a,
 .l-bloc h5 a,
 .l-bloc h6 a,
-.l-bloc p a {
+{
     color: rgba(0, 0, 0, .6);
+}
+
+.l-bloc p a 
+{
+    color:#4E0000;
+    font-family: "helvetica";
+    font-weight: bold;
+
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -685,7 +702,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #4E0000;
 }
 
 .container {
@@ -769,9 +786,6 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
-}
 
 /* modification apportée pour alléger le site web */
 .portfolio-thumb {
@@ -813,17 +827,17 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #4E0000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #4E0000!important;
 }
 
 .ltc-white {
