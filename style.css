@@ -272,7 +272,7 @@ a:hover {
 .l-bloc h3 a,
 .l-bloc h4 a,
 .l-bloc h5 a,
-.l-bloc h6 a,
+.l-bloc h6 a
 {
     color: rgba(0, 0, 0, .6);
 }
@@ -282,7 +282,6 @@ a:hover {
     color:#4E0000;
     font-family: "helvetica";
     font-weight: bold;
-
 }
 
 .d-bloc .panel .a-btn:hover,
